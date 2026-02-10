@@ -41,3 +41,53 @@ This repository contains:
 Version: 0.1 (concept and core model draft)
 
 This project is experimental and open for discussion.
+---
+
+## Repository structure
+
+
+---
+
+## How to contribute
+
+This project is open for discussion and research collaboration.
+
+You can contribute by:
+
+- opening an issue with suggestions or questions
+- proposing changes to specifications
+- submitting pull requests with improvements
+- adding examples to the corpus
+
+---
+
+## How to open an issue
+
+Use GitHub Issues:
+https://github.com/13golds/universal-meaning-protocol/issues
+
+Please describe:
+
+- what you want to improve
+- what part of the protocol it affects
+- your reasoning
+
+---
+
+## Discussions
+
+Project discussions can be started using GitHub Discussions
+(if enabled in repository settings).
+
+---
+
+## Next steps
+
+Planned near-term steps:
+
+- formal state model extension
+- transition and interaction models
+- symbolic composition rules
+- validation and visualization tools
+- public documentation improvements
+
