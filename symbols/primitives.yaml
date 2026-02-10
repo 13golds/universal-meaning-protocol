@@ -1,0 +1,26 @@
+symbols:
+
+  STATE:
+    glyph: "◯"
+    meaning: bounded system or configuration
+
+  OBSERVER:
+    glyph: "⊙"
+    meaning: reference point of observation
+
+  SCALE:
+    glyph: "Σ"
+    meaning: level of description
+
+  TRANSITION:
+    glyph: "→"
+    meaning: directed change
+
+  INTERACTION:
+    glyph: "⟷"
+    meaning: mutual influence
+
+  UNCERTAINTY:
+    glyph: "∿"
+    meaning: informational uncertainty
+
