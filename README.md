@@ -55,6 +55,36 @@ site/       – public one-page site
 
 ---
 
+## How to read UMP
+
+UMP expressions describe systems as states and transitions.
+
+Basic structure:
+
+```
+⊙(observer) Σ(scale)
+◯(state_A) → ◯(state_B)
+```
+
+### Elements
+
+* ⊙ — Observer (who or what observes the system)
+* Σ — Scale (level of description: human, system, cosmic, etc.)
+* ◯ — State (a configuration of a system)
+* → — Transition (change between states)
+* ⟷ — Interaction (mutual influence between systems)
+
+### Reading rule
+
+1. Identify the observer
+2. Identify the scale
+3. Identify the states
+4. Follow transitions or interactions
+
+Meaning is always interpreted relative to observer and scale.
+
+---
+
 ## Examples
 
 ### Example 1 — Learning
